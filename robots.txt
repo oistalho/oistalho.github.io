@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oistalho.github.io/sitemap.html.gz
+Sitemap: https://oistalho.github.io/app/sitemap.html.gz
+Sitemap: https://oistalho.github.io/assets/sitemap.html.gz
+Sitemap: https://oistalho.github.io/css/sitemap.html.gz
+Sitemap: https://oistalho.github.io/includes/sitemap.html.gz
+Sitemap: https://oistalho.github.io/item/sitemap.html.gz
+Sitemap: https://oistalho.github.io/src/sitemap.html.gz
